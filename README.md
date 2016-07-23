@@ -9,5 +9,5 @@ $ python rmNumSpecialChar.py <inputFile_name>
 __To run the script that removes special characters:__
 
 ```
-$ python rmNumSpecialChar.py <inputFile_name>
+$ python rmSpecialChar.py <inputFile_name>
 ```
